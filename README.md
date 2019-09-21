@@ -1,4 +1,4 @@
-# vuex-daeng
+# vuex-fundamental
 
 ## Project setup
 ```
